@@ -1,0 +1,15 @@
+[server]
+HttpPort = 8082
+
+[database]
+User = root
+Password = yanghong
+Ip = 10.176.122.80
+Port = 13306
+DBName = lab3
+
+[rabbitmq]
+Username = admin
+Password = admin
+IpAddress = 47.100.60.194
+Port = 5672

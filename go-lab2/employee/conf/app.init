@@ -1,0 +1,9 @@
+[server]
+HttpPort = 8083
+
+[database]
+User = root
+Password = yanghong
+Ip = 10.176.122.80
+Port = 13306
+DBName = lab3
